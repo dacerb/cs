@@ -1,1 +1,0 @@
-sudo /opt/CrowdStrike/falconctl -s --cid=3C8641C51B434E77AB9D1FBF9FA4C69E-48 && systemctl start falcon-sensor
